@@ -66595,7 +66595,7 @@ if(s==null)s=H.d(H.k("_scaleAnimation"))
 r=p.a
 q=r.c
 r=L.cN(r.e,o,o,o,o,o,o,o,n.a5.Q.da(n.x),C.aS,o,o)
-return T.UJ(new T.dm(C.bE,K.kT(T.fo(H.a([K.kT(T.cL(new D.KX(new S.a5C(p),o,o,C.o,o,!1,new D.KY(r,q,o),o),100,o),s)],t.p),C.ak,C.c_,C.am),m),o),1)}}
+return T.UJ(new T.dm(C.bE,K.kT(T.fo(H.a([K.kT(T.cL(new D.KX(new S.a5C(p),o,o,C.o,o,!1,new D.KY(r,q,o),o),100,150),s)],t.p),C.ak,C.c_,C.am),m),o),1)}}
 S.a5B.prototype={
 $1:function(a){return a.k(0,this.a.b)},
 $S:59}
